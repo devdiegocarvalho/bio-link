@@ -2,7 +2,7 @@
 
 ![preview](./.github/preview.jpg)
 
-> Discover
+> BioLink
 
 Projeto baseado no treinamento Discover. Uma pagina para postagem de links úteis no Instagram, sendo uma excelente alternativa ao Linkthree.
 

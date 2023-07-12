@@ -34,8 +34,8 @@ body * {
 }
 
 #container {
-  height: 712px;
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: 56px auto 0px;
   padding: 0 20px;
 }
@@ -149,4 +149,9 @@ footer {
   font-size: 10px;
   transform: rotate(180deg);
   text-decoration: underline;
+}
+
+@media (min-width: 700px) {
+  :root {
+  }
 }
